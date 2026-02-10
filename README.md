@@ -5,7 +5,7 @@
 📍 Based in France | 🌍 Working across B2B,B2C & CPG sectors
 
 ### About Me
-I'm a **SCRUM PSM1 Certified** Supply Chain Analyst with 6+ years of experience transforming supply chain operations through data-driven insights and ERP optimization. I specialize in turning complex supply chain challenges into competitive advantages.
+I'm a **SCRUM PSM1 Certified** Supply Chain Analyst with 6.2 years of experience transforming supply chain operations through data-driven insights and ERP optimization. I specialize in turning complex supply chain challenges into competitive advantages.
 
 **Languages:** French (B2 - DELF Certified) | English (C1/C2) | Bengali | Hindi
 
