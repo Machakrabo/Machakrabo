@@ -2,7 +2,7 @@
 
 ## Supply Chain & Operations Analyst | ERP Systems & Business Process Optimization
 
-📍 Based in France | 🌍 Working across B2B & B2C sectors
+📍 Based in France | 🌍 Working across B2B,B2C & CPG sectors
 
 ### About Me
 I'm a **SCRUM PSM1 Certified** Supply Chain Analyst with 6+ years of experience transforming supply chain operations through data-driven insights and ERP optimization. I specialize in turning complex supply chain challenges into competitive advantages.
