@@ -17,8 +17,8 @@ I'm a **SCRUM PSM1 Certified** Supply Chain Analyst with 6.2 years of experience
 - **Project Management:** Agile (SAP Activate), SCRUM, Jira, Trello
 - **Web Development:** HTML, CSS, JavaScript, .NET (in training)
 ### 📊 Certifications
-- **Google Data Analytics Professional Certificate** - Python, SQL, Tableau, Advanced Excel, Story telling Capstone Project (2026).
-- **Google Project Management Professional** - Project Management (2024)
+- **Google Data Analytics Professional Certificate** - Python, SQL, Tableau, Advanced Excel, Story telling and capstone Project (2026).
+- **Google Project Management Professional** - Project Management training with capstone project (2024)
 
 ### 🎯 What I Do
 - Design forecasting solutions & inventory optimization models
