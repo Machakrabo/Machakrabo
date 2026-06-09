@@ -1,6 +1,6 @@
 # Hi, I'm Maloshree Chakraborty 👋
 
-## Data Analyst - Supplychain| Supply Chain & Operations Analyst | ERP Systems & Business Process Optimization | Business Analyst
+## Data Analyst - Supplychain| Supply Chain & Operations Analyst | Business Analyst
 
 📍 India | 🌍 Working across B2B, B2C & CPG sectors
 
