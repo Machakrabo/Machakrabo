@@ -1,6 +1,6 @@
 # Hi, I'm Maloshree Chakraborty 👋
 
-## Supply Chain & Operations Analyst | ERP Systems & Business Process Optimization | Business Analyst
+## Data Analyst - Supplychain| Supply Chain & Operations Analyst | ERP Systems & Business Process Optimization | Business Analyst
 
 📍 India | 🌍 Working across B2B, B2C & CPG sectors
 
@@ -11,7 +11,7 @@ I'm a **SCRUM PSM1 Certified** Supply Chain Analyst with 6.2 years of experience
 
 ### 🔧 Technical Skills
 - **ERP Systems:** SAP IBP, SAP S/4HANA, SAP CPI-DS
-- **Data Analysis:** Python, SQL, Excel, Power BI, Tableau
+- **Data Analysis:** Python, SQL, Excel, Tableau
 - **Planning & Optimization:** Demand Forecasting, Inventory Optimization, S&OP
 - **Process Management:** Business Process Analysis, Requirements Gathering, UAT
 - **Project Management:** Agile (SAP Activate), SCRUM, Jira, Trello
