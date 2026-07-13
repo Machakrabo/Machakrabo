@@ -27,7 +27,7 @@ I'm a **SCRUM PSM1 Certified** Supply Chain Analyst with 6.2 years of experience
 - Optimize end-to-end supply chain processes
 
 ### 📊 Industry Experience
-**8 Projects across:**
+**Projects across:**
 - B2B: Distribution | Healthcare | Energy
 - B2C: Aviation | Pharmacy | Retail
 - CPG: Apparel & Clothing | Toys & Consumer Goods
